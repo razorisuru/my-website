@@ -1,0 +1,38 @@
+* {
+    margin: 10px 0px 0px 10px;
+}
+
+.hd1 {
+    background: rgba(145, 255, 163, 0.459);
+}
+.hd2 {
+    background: rgba(229, 255, 135, 0.795);
+    /* background: linear-gradient(rgb(44, 44, 44),rgb(88, 88, 88)); */
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 10px;
+}
+table{
+    width: 75%;
+    height: 50vh;
+    background: url(https://img.freepik.com/free-photo/white-cloud-blue-sky-sea_74190-4488.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-color: #00eeff;
+}
+
+.btnd {
+    width: 75%;
+    display: flex;
+    align-content: center;
+}
+
+.btns {
+    border-radius: 5px;
+    width: 83px;
+    height: 33px;
+}
